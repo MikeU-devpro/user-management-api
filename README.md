@@ -190,4 +190,4 @@ This interface allows you to:
     Execute API requests directly from the browser.
 
 For a visual reference, here's what the Swagger UI looks like:
-![Swagger UI Screenshot](docs/images/swagger-ui-screenshot.png) # Make sure this path is correct!
+![Swagger UI Screenshot](docs/images/swagger-ui-screenshot.png)
